@@ -3,15 +3,15 @@
 	"id": "augmentacraft",
 	"version": "${version}",
 	"name": "AugmentaCraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Mod about turning yourself into a cyborg!",
 	"authors": [
-		"Me!"
+		"Gurkinator"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Gurkinator1/AugmentaCraft"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/augmentacraft/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -38,7 +38,5 @@
 		"java": ">=21",
 		"fabric-api": "*"
 	},
-	"suggests": {
-		"another-mod": "*"
-	}
+	"suggests": {}
 }
